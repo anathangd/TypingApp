@@ -222,7 +222,7 @@ struct TypingView: View {
     // ellipsis …
     // “Quotes” be aware something is different with the end quote.
     var testing = false   //set to false
-    var testingValue = 206  //index to test
+    var testingValue = 207  //index to test
     var moreRecent = false   //do the more recent passages
     @State var passageSelectionIndex = 5
     @State var completedPassageIndices = ["one"]
